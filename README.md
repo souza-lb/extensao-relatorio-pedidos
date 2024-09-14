@@ -1,10 +1,10 @@
 <h1> Projeto de Extensão - Relatório de Pedidos</h1>  
 
-<b>Projeto de Extensão da Disciplina - Tópicos de Big Data em Python - Leonardo Bruno de Souza Silva - 202301011744</b>
+<h2>Projeto de Extensão da Disciplina - Tópicos de Big Data em Python - Leonardo Bruno de Souza Silva - 202301011744</h2>
 
-<b>Repositório Principal do Projeto Relatório de Pedidos</b>
+<h3>Repositório Principal do Projeto Relatório de Pedidos</h3>
 
-O que você econtra aqui?
+<h3>O que você econtra aqui?</h3>
 
 * Arquivos Jupyter Notebook ( nos formatos: nativo, html, pdf e markdown )
 * Arquivo ".csv" sem tratamento.
@@ -15,6 +15,16 @@ O que você econtra aqui?
 * Na pasta "/src" arquivos para rodar o projeto fora do Jupyter.
 * Arquivo Python para rodar o projeto em ambiente fora do Jupyter.
 * Arquivos de gráficos.
+
+<h3>O que este projeto faz?</h3>  
+
+* Trata a base da dados no ambiente Jupyter.
+* Utiliza a biblioteca "pandas" e expressões regulares ( regex ) para normalizar os dados.
+* Utiliza a biblioteca "plotly" para gerar gráficos dinâmicos.
+* Utiliza a biblioteca "reportlab" para gerar relatório em pdf.
+* Fornece um arquivo de código python como alternativa.
+
+
 
 É altamente recomendado o uso do Jupyter para rodar o projeto, pois em seu ambiente é possível interagir com os gráficos  
 dinâmicos e acompanhar todo o processo de tratamento dos dados antes da geração do relatório.  
