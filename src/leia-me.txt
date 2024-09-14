@@ -1,0 +1,3 @@
+Esta pasta inclui arquivos para que você rode o projeto sem usar o Jupyter Notebook.
+Se possível utilize o ambiente do Jupyter pois lá ele permite você observar como o processo de tratamento de dados ocorreu
+e como ele representou a parte mais complexa do projeto.
