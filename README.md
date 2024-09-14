@@ -35,6 +35,14 @@ Gráfico de Linha Interativo Gerado pela Aplicação:
 
 ![Gráfico Interativo Linha](/imagens/grafico-interativo-linha.png)  
 
+Gráfico de Barras Gerado pela Aplicação:  
+
+![Gráfico Interativo Barras](/imagens/grafico-interativo-barras.png)  
+
+Gráfico Interativo Pizza/ Torta Gerado pela Aplicação:  
+
+![Gráfico Interativo Pizza](/imagens/grafico-interativo-pizza.png)  
+
 
 
 Este repositório foi criado por: <b>Leonardo Bruno de Souza Silva</b><br>
