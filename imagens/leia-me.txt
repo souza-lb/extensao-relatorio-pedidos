@@ -1,0 +1,1 @@
+Esta pasta contém arquivos de imagem para uso na ajuda do projeto.
