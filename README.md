@@ -18,6 +18,9 @@ O que você econtra aqui?
 
 É altamente recomendado o uso do Jupyter para rodar o projeto, pois em seu ambiente é possível interagir com os gráficos  
 dinâmicos e acompanhar todo o processo de tratamento dos dados antes da geração do relatório.  
+Para criação do mapa de forma adequada foi necessário o tratamento do arquivo "DadosZazzleSemTratamento.csv". Ele inicialmente  
+apresntava registros irregulares e sem padronização. Após tratamento adequado com a biblioteca pandas foi gerado o arquivo  
+"DadosZazzleComTratamento.csv".
 
 Para instalar as dependências do projeto faça:  
 
