@@ -16,7 +16,7 @@ O que você econtra aqui?
 * Arquivo Python para rodar o projeto em ambiente fora do Jupyter.
 * Arquivos de gráficos.
 
-É altamente recomendado o uso do Jupyter para rodar o projeto pois em seu ambiente é possível interagir com os gráficos  
+É altamente recomendado o uso do Jupyter para rodar o projeto, pois em seu ambiente é possível interagir com os gráficos  
 dinâmicos e acompanhar todo o processo de tratamento dos dados antes da geração do relatório.  
 
 Jupyter Rodando o Projeto:  
