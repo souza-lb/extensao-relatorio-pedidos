@@ -15,6 +15,7 @@
 * Na pasta "/src" arquivos para rodar o projeto fora do Jupyter.
 * Arquivo Python para rodar o projeto em ambiente fora do Jupyter.
 * Arquivos de gráficos.
+* Script shell para configuração do ambiente do Jupyter Notebook ( Habilita o ambiente virtual, instala e configura tema escuro, organiza as pastas dos notebooks )
 
 <h3>O que este projeto faz?</h3>  
 
