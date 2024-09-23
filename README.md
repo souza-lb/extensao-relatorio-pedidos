@@ -23,7 +23,7 @@
 * Utiliza a biblioteca "pandas" e expressões regulares ( regex ) para normalizar os dados.
 * Utiliza a biblioteca "plotly" para gerar gráficos dinâmicos.
 * Utiliza a biblioteca "reportlab" para gerar relatório em pdf.
-* Fornece um arquivo de código python como alternativa.
+* Fornece um arquivo de código python para fora do Jupyter como alternativa se você não desejar usá-lo.
 
 
 
