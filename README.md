@@ -6,7 +6,7 @@
 
 <h3>O que você econtra aqui?</h3>
 
-* Arquivos Jupyter Notebook ( nos formatos: nativo, html, pdf e markdown )
+* Arquivos Jupyter Notebook ( nos formatos: nativo, pdf e markdown )
 * Arquivo ".csv" sem tratamento.
 * Arquivo ".csv" com tratamento. (Após análise e tratamento dos dados no Jupyter)
 * Arquivo com dependências do projeto. (requisitos.txt)
